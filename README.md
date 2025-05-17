@@ -51,11 +51,15 @@ Parte del aprendizaje consiste también en saber cómo **prevenir o detectar** e
 
 📦 Keyboard-monitoring/
 
-┣ 📜 Gato.py # Código principal del keylogger
+┣ 📜 main.py # Código principal del keylogger
 
 ┣ 📜 README.md # Este archivo
 
-┗ 📄 pulsaciones_grabadas.txt (temporal, generado al ejecutar)
+┣ 📄 proyecto.pdf          # Documento explicativo
+
+┣ 📄 .env.example          # Variables de entorno de ejemplo (sin datos reales)
+
+┗ 📄 .gitignore            # Para excluir logs, .env real, ejecutables y basura
 
 ## 📄 Licencia
 
