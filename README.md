@@ -50,8 +50,11 @@ Parte del aprendizaje consiste también en saber cómo **prevenir o detectar** e
 ## 📁 Estructura del proyecto
 
 📦 Keyboard-monitoring/
+
 ┣ 📜 Gato.py # Código principal del keylogger
+
 ┣ 📜 README.md # Este archivo
+
 ┗ 📄 pulsaciones_grabadas.txt (temporal, generado al ejecutar)
 
 ## 📄 Licencia
